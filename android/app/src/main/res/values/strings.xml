@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">twelve</string>
+    <string name="facebook_app_id">717109226075295</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">532f1622f82d5d8e72aa1047c84f568f</string>
+</resources>
